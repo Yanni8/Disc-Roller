@@ -16,7 +16,7 @@
 /* Begin PBXFileReference section */
 		2AAC491E29733AEB00985CFE /* Disc Roller.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Disc Roller.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		2AAC492129733AEB00985CFE /* Disc_RollerApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Disc_RollerApp.swift; sourceTree = "<group>"; };
-		2AAC492329733AEB00985CFE /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		2AAC492329733AEB00985CFE /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; tabWidth = 5; usesTabs = 0; };
 		2AAC492529733AEC00985CFE /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		2AAC492829733AEC00985CFE /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -267,6 +267,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"Disc Roller/Preview Content\"";
+				DEVELOPMENT_TEAM = HD26X73MQ4;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
@@ -295,6 +296,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"Disc Roller/Preview Content\"";
+				DEVELOPMENT_TEAM = HD26X73MQ4;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
